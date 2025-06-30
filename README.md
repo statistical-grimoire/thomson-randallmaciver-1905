@@ -151,7 +151,7 @@ Pisklak, J. (2025). *Thomson & Randall-MacIver's 1905 comparative craniometric d
 ### BibTeX
 
 ```bibtex
-@online{ ,
+@misc{ ,
   author       = {Pisklak, Jeffrey M.},
   title        = {Thomson \& {Randall}-{MacIver}'s 1905 Comparative Craniometric Data on Ancient {Egyptian} Skulls},
   year         = {2025},
