@@ -146,7 +146,7 @@ If you use this dataset in your research, teaching, or publications, please cite
 
 ### APA-style citation:
 
-Pisklak, J. (2025). *Thomson & Randall-MacIver's 1905 comparative craniometric data on ancient Egyptian skulls* [Data set]. GitHub. https://github.com/statistical-grimoire/book/tree/main/data/Egyptian-skulls
+Pisklak, J. (2025). *Thomson & Randall-MacIver's 1905 comparative craniometric data on ancient Egyptian skulls* [Data set, v1.0]. GitHub. https://github.com/statistical-grimoire/book/tree/main/data/Egyptian-skulls
 
 ### BibTeX
 
